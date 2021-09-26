@@ -1,7 +1,7 @@
 # Payoneer 派安盈注册教程
 
 注册Payoneer非常简单，只需要绑定您收款的银行卡并且填写一份问卷。
-### 注册教程：https://youtu.be/hwNX3D0zBXs
+### Payoneer注册教程：https://youtu.be/hwNX3D0zBXs
 
 
 没有Payoneer的小伙伴，推荐您尽快注册一个Payoneer(派安盈）的收款账户。
